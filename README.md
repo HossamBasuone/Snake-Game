@@ -54,12 +54,6 @@ A classic Snake game built using **HTML, CSS, and Vanilla JavaScript**. Control 
 
 3. Open `index.html` in your browser.
 
-No additional dependencies or installation are required.
-
-
-
-The README image will automatically appear once you add the screenshot at the specified location.
-
 ## 👨‍💻 Author
 
 **Hossam Abdelrahman Basuone**
