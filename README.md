@@ -56,26 +56,7 @@ A classic Snake game built using **HTML, CSS, and Vanilla JavaScript**. Control 
 
 No additional dependencies or installation are required.
 
-## 📸 Adding a Screenshot
 
-To display your own game screenshot in this README:
-
-1. Create a folder named `assets` in the root of your project.
-2. Take a screenshot of your game.
-3. Save the image inside that folder as `snake-game.png`.
-
-Your project structure should look like this:
-
-```text
-Snake-Game/
-│
-├── assets/
-│   └── snake-game.png
-│
-├── index.html
-│
-└── README.md
-```
 
 The README image will automatically appear once you add the screenshot at the specified location.
 
