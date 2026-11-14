@@ -4,7 +4,8 @@ A classic Snake game built using **HTML, CSS, and Vanilla JavaScript**. Control 
 
 <!-- Add your game screenshot here -->
 <p align="center">
-  <img src="./assets/snake-game.png" alt="Snake Game Screenshot" width="700">
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/e558b9f4-034d-48f2-850a-066d2fa58abd" />
+
 </p>
 
 ## 🎮 Features
